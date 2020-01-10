@@ -6,9 +6,9 @@ In my place, for recycling purposes, we have 3 trash/waste bins: blue for paper,
 
 ## TODO
 
-[] better handling of global variables
-[] use argparse
-[] improve readme and help
-[] make cron example
-[] add requirements.txt
-[] feature: turn off after finish
+- [ ] better handling of global variables
+- [ ] use argparse
+- [ ] improve readme and help
+- [ ] make cron example
+- [ ] add requirements.txt
+- [ ] feature: turn off after finish
